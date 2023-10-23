@@ -1,3 +1,3 @@
 # Learning-repo
 Demo Work <br>
-By Akhil srivastava
+By Akhil srivastava (Rashu)
